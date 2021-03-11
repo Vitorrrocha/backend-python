@@ -1,5 +1,3 @@
-# backend-python
-Backend em python
 <h1 align="center"><b>Backend Python 💾</b></h1>
 <p align="center">
  <a href="LICENSE" style="text-decoration: none">
@@ -18,24 +16,24 @@ Backend em python
     <img alt="Stars" src="https://img.shields.io/github/stars/Vitorrrocha/backend-python?color=1873CD" />
   </a>
 </p>
-<h2 align="center"><b>Interface de visualização de métricas e informações genômicas.</b></h2>
+<h2 align="center"><b>Backend Python</b></h2>
 
-### Scripts 💻
+### Available Scripts 💻
 
-**Clonando repositório e rodando**
+**Cloning repository and running**
 
 ```bash
-$ git clone https://gitlab.com/Gntechti/genomic-dashboard.git && cd genomic-dashboard
+$ git clone https://github.com/Vitorrrocha/backend-python && cd backend-python
 ```
 
-**Instalando dependências**
+**Installing dependencies**
 
 ```bash
 $ pip install -r requirements.txt
 ```
 
-**Inicializando**
+**Getting Started**
 
 ```bash
-$ cd gntech && python manage.py runserver
+$ 
 ```
