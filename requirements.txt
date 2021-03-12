@@ -46,3 +46,4 @@ urllib3==1.25.8
 virtualenv==20.4.2
 webencodings==0.5.1
 wrapt==1.12.1
+Faker~=6.6.0
