@@ -19,7 +19,7 @@
 
 <h2 align="center"><b>Backend Python</b></h2>
 
-## :rocket: Technologies
+### :rocket: Technologies
 
 This project was developed with the following technologies:
 
