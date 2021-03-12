@@ -24,3 +24,4 @@ def test_insert_user():
     assert new_user.id == query_user.id
     assert new_user.name == query_user.name
     assert new_user.password == query_user.password
+
